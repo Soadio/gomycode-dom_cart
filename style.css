@@ -58,6 +58,10 @@ button:focus {
   outline-offset: 2px;
 }
 
+footer {
+  margin-left: auto;
+}
+
 .total {
   font-size: 48px;
 }
